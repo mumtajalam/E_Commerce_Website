@@ -43,11 +43,11 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img: "https://media.istockphoto.com/photos/blank-white-tshirt-front-with-clipping-path-picture-id482949611?b=1&k=20&m=482949611&s=170667a&w=0&h=oPsmQCKbaB4oiWTmQ2QCj485lb60y47FplQezKpkv-0=",
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://m.media-amazon.com/images/I/71aacM0zT6L._UY550_.jpg",
   },
   {
     id: 3,
@@ -63,11 +63,11 @@ export const popularProducts = [
   },
   {
     id: 6,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzVHEynQlb6tCFqf2_hBSYDnoJiIv79VfMSg&usqp=CAU",
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://stylesatlife.com/wp-content/uploads/2016/12/Straight-leg-jeans-6.png.webp",
   },
   {
     id: 8,
