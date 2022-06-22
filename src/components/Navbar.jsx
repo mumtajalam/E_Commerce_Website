@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { Search } from "@mui/icons-material";
 import Badge from "@mui/material/Badge";
@@ -81,11 +82,18 @@ const Navbar = () => {
           <Logo>MUMTAJ.</Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN UP</MenuItem>
+          <Link to="/register">
+            <MenuItem>Register</MenuItem>
+          </Link>
+          <Link to="/login">
+            <MenuItem>LOGIN</MenuItem>
+          </Link>
+
           <MenuItem>
             <Badge color="secondary">
-              <ShoppingCartIcon />
+              <Link to="/cart">
+                <ShoppingCartIcon />
+              </Link>
             </Badge>
           </MenuItem>
         </Right>
